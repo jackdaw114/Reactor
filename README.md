@@ -12,6 +12,6 @@ dependencies:
 ><br />"three": "0.154.0"
 <br />
 Props:
->style (works same as style={{}}) (css styles change height width etc)
-><br /> text (string) (can add text to the center of the element using this props)
-><br /> interactive (Boolean) (viewport actions (pan zoom)
+style (works same as style={{}}) (css styles change height width etc)
+<br /> text (string) (can add text to the center of the element using this props)
+<br /> interactive (Boolean) (viewport actions (pan zoom)
