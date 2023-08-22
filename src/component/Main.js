@@ -55,5 +55,5 @@ export default function Main(props) {
 }
 
 Main.defaultProps = {
-    text = '.'
+    text : '.'
 }
