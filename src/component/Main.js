@@ -53,3 +53,7 @@ export default function Main(props) {
         </div>
     )
 }
+
+Main.defaultProps = {
+    text = '.'
+}
